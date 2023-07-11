@@ -10,10 +10,6 @@ article {
     margin: 20px 0;
 }
 
-h4{
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 20px;
-}
 /* Fonts section */
 
 h1 {
@@ -68,6 +64,7 @@ p {
 
 #circle div {
     display: inline-block;
+
 }
 .charcoal {
     background-color: #494848;
